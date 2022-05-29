@@ -1,0 +1,11 @@
+de\tekup\soap\models\whitetest\Address.class
+de\tekup\demo\data\service\WhiteTestService.class
+de\tekup\demo\data\config\WhiteTestConfig.class
+de\tekup\soap\models\whitetest\StudentRequest.class
+de\tekup\demo\data\endpoint\WhiteTestEndpoint.class
+de\tekup\soap\models\whitetest\ObjectFactory.class
+de\tekup\demo\data\WhiteTestSoapApplication.class
+de\tekup\soap\models\whitetest\Exam.class
+de\tekup\soap\models\whitetest\Student.class
+de\tekup\soap\models\whitetest\package-info.class
+de\tekup\soap\models\whitetest\WhiteTestResponse.class
